@@ -1,5 +1,9 @@
 /* styles.css */
 
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    
+}
+
 img {
     display: block;
     margin: auto;
@@ -8,6 +12,15 @@ img {
     width: 80%;
     height: auto;
 }
+
+h3 {
+    font-weight: bold; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: rgb(19, 58, 19); 
+    font-weight: bold;
+}
+
 
 p {
    font-weight: bold; 
@@ -33,3 +46,17 @@ p {
     color: white;
 }
 
+.ingredients-li {
+display:table;
+border-radius: 10px;
+font-weight: bold; 
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: left;
+text-indent: 0px;
+background-color: rgb(252, 109, 109);
+}
+
+.method-li {
+    background-color: rgb(16, 90, 1);
+
+}
