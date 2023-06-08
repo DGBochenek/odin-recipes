@@ -1,0 +1,35 @@
+/* styles.css */
+
+img {
+    display: block;
+    margin: auto;
+    border-radius: 100px 25px;
+    padding: 20px;
+    width: 80%;
+    height: auto;
+}
+
+p {
+   font-weight: bold; 
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   text-align: center;
+}
+
+.title {
+    display: table;
+    margin: 0px auto 0px auto;
+    padding: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    background-color: darkgreen;
+    
+}
+
+.red {
+    color: red;
+}
+
+.white {
+    color: white;
+}
+
