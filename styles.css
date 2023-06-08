@@ -9,15 +9,20 @@ img {
     margin: auto;
     border-radius: 100px 25px;
     padding: 20px;
-    width: 80%;
+    width: 60%;
     height: auto;
 }
+
+.round-pic {
+    border-radius: 200px 50px;
+}
+
 
 h3 {
     font-weight: bold; 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    color: rgb(19, 58, 19); 
+    color: rgb(0, 140, 69); 
     font-weight: bold;
 }
 
@@ -34,16 +39,16 @@ p {
     padding: 5px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bolder;
-    background-color: darkgreen;
+    background-color: rgb(0, 140, 69);
     
 }
 
 .red {
-    color: red;
+    color: rgb(205  , 33, 20);
 }
 
 .white {
-    color: white;
+    color: rgb(224, 249, 255);
 }
 
 .ingredients-li {
@@ -53,10 +58,10 @@ font-weight: bold;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 text-align: left;
 text-indent: 0px;
-background-color: rgb(252, 109, 109);
+background-color: rgb(205  , 33, 20);
 }
 
 .method-li {
-    background-color: rgb(16, 90, 1);
+    background-color: rgb(0, 140, 69);
 
 }
